@@ -1,4 +1,4 @@
-**Syllabus 
+**Syllabus**
 **Introduction**
 Analysis of Algorithms, Asymptotic Analysis, Order of Growth
 Best, Average and Worst Cases, Asymptotic Notations and more
